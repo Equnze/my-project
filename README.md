@@ -1,1 +1,1 @@
-tead me file
+read me file
